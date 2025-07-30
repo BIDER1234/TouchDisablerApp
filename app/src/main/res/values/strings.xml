@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Touch Disabler</string>
+    <string name="start_lock">השבת טאצ'</string>
+    <string name="stop_lock">אפשר טאצ'</string>
+    <string name="auto_start">הפעלה אוטומטית</string>
+    <string name="touch_disabled">הטאצ' הושבת</string>
+    <string name="touch_enabled">הטאצ' הופעל</string>
+</resources>

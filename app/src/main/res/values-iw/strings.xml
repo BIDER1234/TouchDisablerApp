@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">חסימת מסך</string>
+    <string name="start">הפעל</string>
+    <string name="stop">עצור</string>
+    <string name="auto_start">הפעלה אוטומטית</string>
+</resources>
